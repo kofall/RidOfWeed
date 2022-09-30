@@ -8,7 +8,7 @@ class Post {
     lateinit var title: String
     lateinit var description: String
     lateinit var picture: String
-    lateinit var timeStamp: Any
+    lateinit var timeStamp: String
 
     constructor(){}
     constructor(
@@ -16,11 +16,15 @@ class Post {
         title: String,
         description: String,
         picture: String,
+        timeStamp: String? = null
     ) {
         this.username = username
         this.title = title
         this.description = description
         this.picture = picture
-        this.timeStamp = ServerValue.TIMESTAMP
+        this.timeStamp = System.currentTimeMillis().toString()
+        if (timeStamp != null) {
+            this.timeStamp = timeStamp
+        }
     }
 }
