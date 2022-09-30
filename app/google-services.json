@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "218427756775",
+    "project_id": "ridofweed",
+    "storage_bucket": "ridofweed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218427756775:android:3590a4b725aaa68304d242",
+        "android_client_info": {
+          "package_name": "com.ridofweed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218427756775-m2uelqua9beha1v2frtc0lb0tf3r4bu7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5_mJfyWGWHglS6kI9kjeSCTBTz05bzz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218427756775-m2uelqua9beha1v2frtc0lb0tf3r4bu7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

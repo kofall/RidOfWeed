@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MotywAplikacji" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/color_30_2</item>
+        <item name="colorPrimaryDark">@color/color_30_1</item>
+        <item name="colorOnPrimary">@color/color_60</item>
+        <item name="colorAccent">@color/color_10</item>
+    </style>
+
+    <style name="BaseTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorControlNormal">@color/color_60_2</item>
+    </style>
+</resources>

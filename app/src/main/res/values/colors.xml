@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="color_60">#F7F0D6</color>
+    <color name="color_60_2">#F7F0C6</color>
+    <color name="color_30_1">#554F0E</color>
+    <color name="color_30_2">#767000</color>
+    <color name="color_10">#F45744</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="bright_sun">#fcfcb7</color>
+    <color name="blue_sky">#ADD8E6</color>
+    <color name="sunset_sky">#ec8100</color>
+    <color name="night_sky">#05192e</color>
+    <color name="ground">#554F0E</color>
+</resources>
